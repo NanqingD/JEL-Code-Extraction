@@ -1,4 +1,4 @@
-# AEM
+# JEL-Code-Extraction
 Department of Applied Economics and Management in Cornell University
 
 *Requirement:*
